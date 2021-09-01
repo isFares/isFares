@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @isFares
 - 👀 I’m interested in web development & mobile development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning react native
 - 📫 How to reach me oeFares@gmail.com
 
 <!---
